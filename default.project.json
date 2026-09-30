@@ -1,0 +1,15 @@
+{
+  "name": "Micro_Bot",
+  "tree": {
+    "$className": "DataModel",
+    "StarterPlayer": {
+      "$className": "StarterPlayer",
+      "StarterPlayerScripts": {
+        "$className": "StarterPlayerScripts",
+        "MicrobotController": {
+          "$path": "src/client/MicrobotController.client.luau"
+        }
+      }
+    }
+  }
+}
